@@ -1672,6 +1672,7 @@ from .rcti import (
     RCTIPlusTVIE,
 )
 from .rds import RDSIE
+from .rebeccaneverbase import RebeccaNeverbaseIE
 from .redbee import (
     RTBFIE,
     ParliamentLiveUKIE,
